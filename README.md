@@ -1,2 +1,2 @@
-# JohnDoe
-Free HTML 5 Bootstrap 3 Personal Website Template
+# My Personal Website 
+This is my personal website for my web development, game development and pixel art portfolios! To visit my personal portfolio go to esmevazquez.com. 
