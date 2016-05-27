@@ -1,2 +1,2 @@
 # My Personal Website 
-This is my personal website for my web development, game development and pixel art portfolios! To visit my personal portfolio go to esmevazquez.com. 
+This is my personal website for my web development, game development and pixel art portfolios!
